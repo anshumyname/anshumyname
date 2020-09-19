@@ -1,16 +1,19 @@
+[![linkedin](https://github.com/anshumyname/anshumyname/blob/master/imgs/linkdin.jpg)](https://www.linkedin.com/in/anshuman-srivastava-84a0b3188/) &nbsp;&nbsp;&nbsp;
+[![facebook](https://github.com/anshumyname/anshumyname/blob/master/imgs/fb.jpg)](https://www.facebook.com/anshuman.srivastava.9889) &nbsp;&nbsp;&nbsp;
+[![Gmail](https://github.com/anshumyname/anshumyname/blob/master/imgs/gmail.jpg)](mailto:srivastavaanshuman33@gmail.com)
+
 ### Hi there 👋
-
 <!--
-**anshumyname/anshumyname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anshumyname/anshumyname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+I am Anshuman Srivastava and I'm a student at BIT Mesra of academic year 2018-22 from IT Branch. My field of interests are Image Processings and Machine Learning. I have build some projects in that field which is visible below. I'm curious learn and innovate things and looking for a great opportunity ahead.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on CV, ML and DL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Frontend and Backend
+
+- 👯 I’m looking to collaborate on DL and CV projects
+
+- 📫 How to reach me: Follow the links at the top
+
+- ⚡ Fun fact: A code never comiles successfully in one go.
+
