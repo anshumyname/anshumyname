@@ -15,5 +15,5 @@ I am Anshuman Srivastava and I'm a student at BIT Mesra of academic year 2018-22
 
 - 📫 How to reach me: Follow the links at the top
 
-- ⚡ Fun fact: A code never comiles successfully in one go.
+- ⚡ Fun fact: A code never compiles successfully in one go.
 
