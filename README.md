@@ -1,6 +1,6 @@
 [![linkedin](https://github.com/anshumyname/anshumyname/blob/master/imgs/linkdin.jpg)](https://www.linkedin.com/in/anshuman-srivastava-84a0b3188/) &nbsp;&nbsp;&nbsp;
 [![facebook](https://github.com/anshumyname/anshumyname/blob/master/imgs/fb.jpg)](https://www.facebook.com/anshuman.srivastava.9889) &nbsp;&nbsp;&nbsp;
-[![Gmail](https://github.com/anshumyname/anshumyname/blob/master/imgs/gmail.jpg)](mailto:srivastavaanshuman33@gmail.com)
+[![mail](https://github.com/anshumyname/anshumyname/blob/master/imgs/gmail.jpg)](mailto:srivastavaanshuman33@gmail.com)
 
 ### Hi there 👋
 <!--
