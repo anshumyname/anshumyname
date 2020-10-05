@@ -17,3 +17,4 @@ I am Anshuman Srivastava and I'm a student at BIT Mesra of academic year 2018-22
 
 - ⚡ Fun fact: A code never compiles successfully in one go.
 
+![Anshuman's github stats](https://github-readme-stats.vercel.app/api?username=anshumyname&show_icons=true&count_private=true&hide_rank=true)
