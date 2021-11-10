@@ -6,7 +6,9 @@
 ### Hey Coder 
 <!--
 **anshumyname/anshumyname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I am Anshuman Srivastava and I'm a student at BIT Mesra of academic year 2018-22 from IT Branch. My field of interests are Image Processings and Machine Learning. I have build some projects in that field which is visible below. I'm curious learn and innovate things and looking for a great opportunity ahead.
+I am Anshuman Srivastava and I'm a student at BIT Mesra of academic year 2018-22 from IT Branch. My field of interests are Image Processings and Machine Learning. I have build some projects in that field which is visible below. 
+I have expanded my skills in React Framework for FrontEnd Web Development and have worked on MERN stack projects.
+I'm curious learn and innovate things and looking for a great opportunity ahead.
 
 <table>
 <tr>
